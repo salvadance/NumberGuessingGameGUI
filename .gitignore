@@ -1,0 +1,15 @@
+# Compiled class files
+bin/
+*.class
+
+# Eclipse metadata
+.metadata/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Package files
+*.jar
+*.war
+*.zip
