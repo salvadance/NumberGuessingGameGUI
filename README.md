@@ -76,19 +76,6 @@ Implements the number guessing game where:
 - **Layout Managers**: GridBagLayout, BoxLayout, CardLayout
 - **Build Tool**: Eclipse JDT Compiler
 
-## Compilation & Execution
-
-### Using Eclipse
-1. Import the project into Eclipse
-2. Right-click project → Build Project
-3. Run as Java Application (main class: `NumberGuessGameGUI`)
-
-### Using Command Line
-```bash
-javac --module-source-path src -d bin src/exam3GUI/*.java src/module-info.java
-java -p bin -m Exam3GUI/exam3GUI.NumberGuessGameGUI
-```
-
 ## Game Instructions
 
 ### Computer vs You
