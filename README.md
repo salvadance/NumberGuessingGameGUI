@@ -6,29 +6,7 @@ A Java Swing-based GUI application featuring two interactive number guessing gam
 
 This is an educational project demonstrating Java GUI development using Swing components, binary search algorithms, and event-driven programming. The application provides two distinct game modes where users can play against the computer or have the computer guess against them.
 
-## Installation
 
-1. **Clone the repository**:
-   
-   ```bash
-   git clone https://github.com/salvadance/NumberGuessingGameGUI.git
-   ```
-1. **Navigate to project directory**
-   ```
-   cd NumberGuessingGameGUI
-   ```
-   
-1. **Compile the Java files**:
-   
-   ```bash
-   javac src/exam3GUI/*.java
-   ```
-1. **Run the application**:
-   
-   ```bash
-   java -cp src exam3GUI.NumberGuessGameGUI
-   ```
-   
 ## Features
 
 ### Game Modes
